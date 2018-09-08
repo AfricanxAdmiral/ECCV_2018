@@ -54,6 +54,14 @@ Paper classified from ECCV (2018)
 1. Visual Text Correction
 (http://openaccess.thecvf.com/content_ECCV_2018/papers/Amir_Mazaheri_Visual_Text_Correction_ECCV_2018_paper.pdf)
 
-2. 
+2. Explainable Neural Computation via Stack Neural Module Networks (VQA)
+(http://openaccess.thecvf.com/content_ECCV_2018/papers/Ronghang_Hu_Explainable_Neural_Computation_ECCV_2018_paper.pdf)
 
+3. Visual Coreference Resolution in Visual Dialog using Neural Module Networks
+(http://openaccess.thecvf.com/content_ECCV_2018/papers/Satwik_Kottur_Visual_Coreference_Resolution_ECCV_2018_paper.pdf)
 
+4. Gray-box Adversarial Training
+(http://openaccess.thecvf.com/content_ECCV_2018/papers/Vivek_B_S_Gray_box_adversarial_ECCV_2018_paper.pdf)
+
+5. Find and Focus: Retrieve and Localize Video Events with Natural Language Queries
+(http://openaccess.thecvf.com/content_ECCV_2018/papers/Dian_SHAO_Find_and_Focus_ECCV_2018_paper.pdf)

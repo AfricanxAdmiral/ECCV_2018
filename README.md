@@ -16,7 +16,7 @@ Paper classified from ECCV (2018)
 4. 
 
 
-## Metric Learning
+## * Metric Learning
 
 1. Learnable PINs: Cross-Modal Embeddings for Person Identity
 (http://openaccess.thecvf.com/content_ECCV_2018/papers/Samuel_Albanie_Learnable_PINs_Cross-Modal_ECCV_2018_paper.pdf)
@@ -30,7 +30,7 @@ Paper classified from ECCV (2018)
 4. 
 
 
-## Few-shot Learning
+## * Few-shot Learning
 
 1. Dynamic Conditional Networks for Few-Shot Learning
 (http://openaccess.thecvf.com/content_ECCV_2018/papers/Fang_Zhao_Dynamic_Conditional_Networks_ECCV_2018_paper.pdf)
@@ -41,7 +41,7 @@ Paper classified from ECCV (2018)
 3. 
 
 
-## MAPL related ( base on my acknowledge )
+## * MAPL related ( base on my acknowledge )
 
 1. Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images
 (http://openaccess.thecvf.com/content_ECCV_2018/papers/Nanyang_Wang_Pixel2Mesh_Generating_3D_ECCV_2018_paper.pdf)
@@ -49,7 +49,7 @@ Paper classified from ECCV (2018)
 2. 
 
 
-## Self Interested
+## * Self Interested
 
 1. Visual Text Correction
 (http://openaccess.thecvf.com/content_ECCV_2018/papers/Amir_Mazaheri_Visual_Text_Correction_ECCV_2018_paper.pdf)

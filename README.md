@@ -13,7 +13,11 @@ Paper classified from ECCV (2018)
 3. Fine-Grained Visual Categorization using Meta-Learning Optimization with Sample Selection of Auxiliary Data
 (http://openaccess.thecvf.com/content_ECCV_2018/papers/Yabin_Zhang_Fine-Grained_Visual_Categorization_ECCV_2018_paper.pdf)
 
-4. 
+4. Decouple Learning for Parameterized Image Operators
+(http://openaccess.thecvf.com/content_ECCV_2018/papers/Qingnan_Fan_Learning_to_Learn_ECCV_2018_paper.pdf)
+
+5. Leveraging Motion Priors in Videos for Improving Human Segmentation <br>Not quite related<br/>
+(http://openaccess.thecvf.com/content_ECCV_2018/papers/Yu-Ting_Chen_Leveraging_Motion_Priors_ECCV_2018_paper.pdf)
 
 
 ## * Metric Learning
@@ -46,7 +50,16 @@ Paper classified from ECCV (2018)
 1. Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images
 (http://openaccess.thecvf.com/content_ECCV_2018/papers/Nanyang_Wang_Pixel2Mesh_Generating_3D_ECCV_2018_paper.pdf)
 
-2. 
+2. Action Search: Spotting Actions in Videos and Its Application to Temporal Action Localization
+(http://openaccess.thecvf.com/content_ECCV_2018/papers/Humam_Alwassel_Action_Search_Spotting_ECCV_2018_paper.pdf)
+
+3. Diagnosing Error in Temporal Action Detectors
+(http://openaccess.thecvf.com/content_ECCV_2018/papers/Humam_Alwassel_Diagnosing_Error_in_ECCV_2018_paper.pdf)
+
+4. Holistic 3D Scene Parsing and Reconstruction from a Single RGB Image
+(http://openaccess.thecvf.com/content_ECCV_2018/papers/Siyuan_Huang_Monocular_Scene_Parsing_ECCV_2018_paper.pdf)
+
+5. 
 
 
 ## * Self Interested
@@ -65,3 +78,14 @@ Paper classified from ECCV (2018)
 
 5. Find and Focus: Retrieve and Localize Video Events with Natural Language Queries
 (http://openaccess.thecvf.com/content_ECCV_2018/papers/Dian_SHAO_Find_and_Focus_ECCV_2018_paper.pdf)
+
+6. Visual Psychophysics for Making Face Recognition Algorithms More Explainable
+(http://openaccess.thecvf.com/content_ECCV_2018/papers/Brandon_RichardWebster_Visual_Psychophysics_for_ECCV_2018_paper.pdf)
+
+7. Factorizable Net: An Efficient Subgraph-based Framework for Scene Graph Generation (Scene Understanding)
+(http://openaccess.thecvf.com/content_ECCV_2018/papers/Yikang_LI_Factorizable_Net_An_ECCV_2018_paper.pdf)
+
+8. Show, Tell and Discriminate: Image Captioning by Self-retrieval with Partially Labeled Data
+(http://openaccess.thecvf.com/content_ECCV_2018/papers/Xihui_Liu_Show_Tell_and_ECCV_2018_paper.pdf)
+
+9. 

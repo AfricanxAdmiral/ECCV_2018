@@ -2,7 +2,7 @@
 
 Paper classified from ECCV (2018)
 
-## * Meta Learning
+# * Meta Learning
 
 1. Visual Question Answering as a Meta Learning Task
 (http://openaccess.thecvf.com/content_ECCV_2018/papers/Damien_Teney_Visual_Question_Answering_ECCV_2018_paper.pdf)
@@ -22,7 +22,7 @@ Paper classified from ECCV (2018)
 6. 
 
 
-## * Metric Learning
+# * Metric Learning
 
 1. Learnable PINs: Cross-Modal Embeddings for Person Identity
 (http://openaccess.thecvf.com/content_ECCV_2018/papers/Samuel_Albanie_Learnable_PINs_Cross-Modal_ECCV_2018_paper.pdf)
@@ -36,7 +36,7 @@ Paper classified from ECCV (2018)
 4. 
 
 
-## * Few-shot Learning
+# * Few-shot Learning
 
 1. Dynamic Conditional Networks for Few-Shot Learning
 (http://openaccess.thecvf.com/content_ECCV_2018/papers/Fang_Zhao_Dynamic_Conditional_Networks_ECCV_2018_paper.pdf)

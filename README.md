@@ -16,8 +16,10 @@ Paper classified from ECCV (2018)
 4. Decouple Learning for Parameterized Image Operators
 (http://openaccess.thecvf.com/content_ECCV_2018/papers/Qingnan_Fan_Learning_to_Learn_ECCV_2018_paper.pdf)
 
-5. Leveraging Motion Priors in Videos for Improving Human Segmentation <br>Not quite related<br/>
+5. Leveraging Motion Priors in Videos for Improving Human Segmentation <b>Not quite related<b/>
 (http://openaccess.thecvf.com/content_ECCV_2018/papers/Yu-Ting_Chen_Leveraging_Motion_Priors_ECCV_2018_paper.pdf)
+
+6. 
 
 
 ## * Metric Learning

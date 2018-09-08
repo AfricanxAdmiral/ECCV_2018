@@ -2,7 +2,7 @@
 
 Paper classified from ECCV (2018)
 
-## Meta Learning
+## * Meta Learning
 
 1. Visual Question Answering as a Meta Learning Task
 (http://openaccess.thecvf.com/content_ECCV_2018/papers/Damien_Teney_Visual_Question_Answering_ECCV_2018_paper.pdf)
